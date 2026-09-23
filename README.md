@@ -12,11 +12,11 @@ El lenguaje que usaria sera HTML para ver de forma visual la aplicacion mientras
 
 02. Algoritmo o ejemplo de paradigma que usarias
 Una parte de la apliacion en la que se vea el titulo y el lugar donde tienes que escribir pondria algo asi:
-<title>Ruleta Aleatoria</title>
-<h1>Escribe para elgir<h1>
+<!-- <title>Ruleta Aleatoria</title> -->
+<!-- <h1>Escribe para elgir<h1> -->
 
 Para que el boton aparezca usaria algo asi:
-<input type="button" id="button1" value="Elije" onclick="pulsar()">
+<!-- <input type="button" id="button1" value="Elije" onclick="pulsar()"> -->
 
 03. Como llega el codigo a ejecutarse 
 Para ejecutar la aplicacion solo hay que poner el enlace en internet y desde ahi la usas o si lo quieres desde ahi lo puedes descargar
